@@ -1,0 +1,28 @@
+	
+	#user
+	{
+		border-radius : 10px; 
+		width: 200px;
+		height: 25px;
+	}
+	#pass
+	{
+		border-radius : 10px;
+		width: 200px;
+		height: 25px; 
+	}
+	#sub
+	{
+		border-radius : 5px; 
+		background-color: #96ceb4;
+		width: 100px;
+		height:25px;
+	}
+	#res
+	{
+		border-radius : 5px; 
+		background-color: #b8a9c9;
+		width: 100px;
+		height:25px;
+	}
+	
